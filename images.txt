@@ -9,5 +9,6 @@ linuxserver/calibre-web:latest
 0nlylty/one-key-update:zspace
 lovechen/embyserver:latest
 xiaoyaliu/alist
+nvidia/cuda:12.5.1-base-ubuntu22.04
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
